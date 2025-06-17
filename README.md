@@ -36,7 +36,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 About me 
 - 🥇 **Winner**, Smart India Hackathon  – AICTE Document Verification project  
 - 🎓 Background in Computer Science Engineering  
 - 🤖 Passionate about building intelligent, scalable systems  
@@ -54,15 +54,11 @@
   <a href="https://parthgupta07.vercel.app/" target="_blank">  
     <img src="https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />  
   </a>
-  <a href="mailto:contact@parthgupta.dev">  
+  <a href="mailto:parth.gupt07@gmail.com">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />  
   </a>
 </p>
 
 ---
 
-## 🎉 Fun Element
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/theparthgupta/theparthgupta/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
