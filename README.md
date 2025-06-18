@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Quick Stats
+## 🚀 Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=theparthgupta&color=blue" alt="Profile views" />
   &nbsp;&nbsp;
