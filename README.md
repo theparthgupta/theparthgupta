@@ -18,7 +18,7 @@
 AI-powered document verification system with real-time processing capabilities.
 - Built with Python, TensorFlow, and FastAPI
 - Achieved 95% accuracy in document authenticity detection
-- [View Project](#) | [Live Demo](#)
+- [View Project](https://github.com/theparthgupta/aicte_doc_verification) | [Live Demo](https://www.youtube.com/watch?v=aIGnpX2NwcM)
 
 ### 💼 CRM Software Suite
 End-to-end customer relationship management platform with AI-driven marketing workflows.
@@ -27,12 +27,12 @@ End-to-end customer relationship management platform with AI-driven marketing wo
 - Built with React, Node.js, and PostgreSQL
 - [View Project](#) | [Case Study](#)
 
-### 📊 DevDashboard
-Modern productivity dashboard for developers with real-time metrics.
-- Clean, responsive UI with React and TailwindCSS
-- Express.js backend with real-time updates
-- GitHub integration and project tracking
-- [View Project](#) | [Live Demo](#)
+### 📅 FlowCal – Calendar Scheduling App
+Web app for seamless scheduling with real-time notifications.
+- Schedule meetings and sync multiple calendars
+- Invite and coordinate with multiple participants
+- Built with React, Node.js, and MongoDB
+- [View Project](https://github.com/theparthgupta/FlowCal)
 
 ---
 
@@ -69,7 +69,7 @@ Git • GitHub Actions • Postman • Figma • VS Code
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=theparthgupta&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
