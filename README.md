@@ -89,28 +89,9 @@ Git • GitHub Actions • Postman • Figma • VS Code
 ## 🎯 Recent Achievements
 
 - 🥇 **Smart India Hackathon Winner** – AICTE Document Verification System
-- 🎓 **Computer Science Engineering** Graduate
 - 🚀 **120+ Commits** this year across various projects
 - 📝 **Tech Writer** – Sharing insights on AI and full-stack development
 - 🤖 **AI Enthusiast** – Building intelligent automation systems
-
----
-
-## 📊 Coding Activity
-
-```text
-🌅 Morning    ██████████░░░░░░░░░░░░░   42.3%
-🌆 Daytime    ████████████████░░░░░░░   68.1%
-🌃 Evening    ██████████████░░░░░░░░░   58.7%
-🌙 Night      ████████░░░░░░░░░░░░░░░   34.2%
-```
-
-**Top Languages by Usage:**
-- TypeScript: 35.2%
-- JavaScript: 28.7%
-- Python: 18.4%
-- CSS: 12.3%
-- Others: 5.4%
 
 ---
 
