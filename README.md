@@ -21,7 +21,7 @@
 ## 🏆 Trophies & Achievements
 
 - 🥇 **Smart India Hackathon Winner** (AICTE Doc Verifier)
-- 🚀 **120+ Commits** in 2025
+- 🚀 **Top 5** ESG Hackathon 2023 at IIM Mumbai
 - ✍️ **Tech Writer** on AI & engineering (X)
 
 ---
