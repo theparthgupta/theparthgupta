@@ -27,10 +27,11 @@
 ---
 
 ## 🗂️ Top Repositories
-
-[![LLM-Crawl](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=llm-crawl&theme=radical)](https://github.com/theparthgupta/llm-crawl)
+[![Doc Verifier](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=aicte_doc_verification&theme=radical)](https://github.com/theparthgupta/aicte_doc_verification)
 [![WishStox](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=WishStox&theme=radical)](https://github.com/theparthgupta/WishStox)
 [![FlowCal](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=FlowCal&theme=radical)](https://github.com/theparthgupta/FlowCal)
+[![Shorts-Blocker](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=ShortsBlocker&theme=radical)](https://github.com/theparthgupta/ShortsBlocker)
+
 
 ---
 
