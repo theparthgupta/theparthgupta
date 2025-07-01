@@ -20,8 +20,6 @@
 
 ## 🏆 Trophies & Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=theparthgupta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🥇 **Smart India Hackathon Winner** (AICTE Doc Verifier)
 - 🚀 **120+ Commits** in 2025
 - ✍️ **Tech Writer** on AI & engineering (X)
