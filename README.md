@@ -22,7 +22,7 @@
 
 - 🥇 **Smart India Hackathon Winner** (AICTE Doc Verifier)
 - 🚀 **Top 5** ESG Hackathon 2023 at IIM Mumbai
-- ✍️ **Tech Writer** on AI & engineering (X)
+- ✍️ **Tech Writer** on AI & engineering (X/Twitter)
 
 ---
 
