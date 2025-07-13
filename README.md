@@ -61,6 +61,7 @@
 
 ## 🌟 Visitor Count
 
-![Visitor Count]((https://komarev.com/ghpvc/?username=theparthgupta))
+![Profile views](https://komarev.com/ghpvc/?username=ahmetskilinc)
+
 
 
