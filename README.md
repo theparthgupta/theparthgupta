@@ -61,6 +61,6 @@
 
 ## 🌟 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/theparthgupta/count.svg)
+![Visitor Count]((https://komarev.com/ghpvc/?username=theparthgupta))
 
 
