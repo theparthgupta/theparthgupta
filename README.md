@@ -2,9 +2,6 @@
 # 🌟 Parth Gupta
 **Full-Stack Developer | AI & ML Enthusiast**
 
-> "Code is poetry written in logic, and every bug is a hidden haiku."
-
----
 
 ## 📊 GitHub Stats
 
@@ -29,7 +26,7 @@
 ## 🗂️ Top Repositories
 [![Doc Verifier](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=aicte_doc_verification&theme=radical)](https://github.com/theparthgupta/aicte_doc_verification)
 [![WishStox](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=WishStox&theme=radical)](https://github.com/theparthgupta/WishStox)
-[![FlowCal](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=FlowCal&theme=radical)](https://github.com/theparthgupta/FlowCal)
+[![FlowCal](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=growx&theme=radical)](https://github.com/theparthgupta/growx)
 [![Shorts-Blocker](https://github-readme-stats.vercel.app/api/pin/?username=theparthgupta&repo=ShortsBlocker&theme=radical)](https://github.com/theparthgupta/ShortsBlocker)
 
 
